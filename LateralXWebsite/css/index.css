@@ -1,0 +1,271 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Hind Siliguri", sans-serif;
+  /* background-color: #007bff; */
+  background-color: #fff;
+  color: #ffffff;
+}
+a {
+  text-decoration: none;
+}
+a.navbar-brand {
+  color: #f2eeef;
+  font-weight: 600;
+}
+.navbar-nav .nav-link {
+  color: #f2eeef;
+  padding-left: 5px;
+}
+
+.toggleDiv {
+  border-radius: 3px;
+}
+.start {
+  /* height: 47vw; */
+  background-color: #007bff;
+}
+
+#Arpeople {
+  height: 42vw;
+  margin-top: -8vw;
+  margin-left: -10vw;
+  opacity: 0.5;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.font {
+  width: 30vw;
+  margin: auto;
+  margin-left: 58vw;
+  top: 14vw;
+  line-height: 1.8vw;
+  position: relative;
+  z-index: 3;
+  text-align: center;
+}
+
+.section-1 {
+  margin: auto;
+  position: relative;
+  z-index: 3;
+  background-color: #fff;
+  height: 25%;
+  width: 90%;
+}
+
+.Ar1 {
+  width: 17rem;
+  /* margin-left: 7vw; */
+  margin-top: 15%;
+  line-height: 20px;
+  position: relative;
+  z-index: 3;
+  text-align: center;
+  color: #424242;
+  display: inline-block;
+}
+
+#argeneric {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 22vw;
+  width: 42vw;
+  margin-top: 6.9vw;
+  margin-left: 20px;
+}
+
+#reality {
+  height: 55vw;
+  margin-top: -15vw;
+  opacity: 0.3;
+  position: relative;
+  z-index: 1;
+  float: right;
+  overflow: hidden;
+}
+
+.section-2 {
+  clear: both;
+  /* top: -35vw; */
+  margin: auto;
+  position: relative;
+  z-index: 3;
+  background-color: #fff;
+  /* background-color: #2692d3; */
+  height: 25%;
+  width: 90%;
+}
+
+.Ar2 {
+  width: 17rem;
+  margin-top: 18%;
+  /* margin-left: 3vw; */
+  line-height: 20px;
+  position: relative;
+  z-index: 3;
+  text-align: center;
+  /* color: #fff; */
+  color: #424242;
+  display: inline-block;
+}
+
+#peopleanalyze {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 23vw;
+  width: 38vw;
+  margin-top: 2vw;
+  margin-left: 2vw;
+}
+
+#arglasses {
+  height: 55vw;
+  margin-top: -25vw;
+  opacity: 0.3;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.section-3 {
+  /* top: -59vw; */
+  margin: auto;
+  position: relative;
+  z-index: 3;
+  background-color: #fff;
+  height: 25%;
+  width: 90%;
+}
+
+.Ar3 {
+  width: 17rem;
+  margin-top: 15%;
+  /* margin-left: 7vw; */
+  line-height: 20px;
+  position: relative;
+  z-index: 3;
+  text-align: center;
+  color: #424242;
+  display: inline-block;
+}
+
+#dmitry {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 22vw;
+  width: 28vw;
+  margin-top: 6vw;
+  margin-left: 5vw;
+  margin-bottom: 2vw;
+}
+
+#display {
+  float: right;
+  height: 55vw;
+  margin-top: -25vw;
+  opacity: 0.3;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.section-4 {
+  clear: both;
+  /* top: -54vw; */
+  margin: auto;
+  position: relative;
+  z-index: 3;
+  background-color: #fff;
+  /* background-color: #77bff9; */
+  height: 25%;
+  width: 90%;
+}
+
+.Ar4 {
+  width: 17rem;
+  margin-top: 15%;
+  /* margin-left: 4vw; */
+  line-height: 20px;
+  position: relative;
+  z-index: 3;
+  text-align: center;
+  /* color: #fff; */
+  color: #424242;
+  display: inline-block;
+}
+
+#woman {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 25vw;
+  width: 28vw;
+  margin-top: 5.5vh;
+  margin-left: 2vw;
+  margin-bottom: 2vw;
+}
+
+#virtual {
+  float: left;
+  height: 30rem;
+  margin-top: -25vw;
+  opacity: 0.3;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.contact {
+  margin-top: 40px;
+  position: relative;
+  z-index: 3;
+  background-color: #282828;
+  padding: 10px;
+  color: f2eeef;
+}
+
+.address {
+  /* text-align: right; */
+  margin-top: 8px;
+}
+/* 
+.link {
+  text-align: left;
+} */
+
+.icon i {
+  font-size: 1.8rem;
+}
+
+.link i:hover {
+  transform: scale(1.4);
+}
+
+.netImg {
+  max-width: 5rem;
+  max-height: 5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 7rem;
+  width: 7rem;
+  margin-left: 0;
+}
+\ .icon {
+  position: absolute;
+}
+.NetImg {
+  position: relative;
+  left: 4.3rem;
+}
+
+#main {
+  background-color: #fff;
+  /* width: 90%; */
+  margin: auto;
+}
+.row {
+  margin-right: 0;
+}
